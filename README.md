@@ -30,7 +30,7 @@ git clone https://github.com/KArT4206/phishing-detection.git
 cd phishing-detection
 pip install -r requirements.txt
 
-
+```
 this is a ml that has pre-defined websites list that help to dectect the website is legit or phishing website. basically it is using the pre-listed websites it will compare with the input and give the result according to that input.
 
 To run this ml:
