@@ -28,9 +28,31 @@ The dataset used is from [Phishing Websites Data Set - UCI Repository](https://a
 ```bash
 git clone https://github.com/KArT4206/phishing-detection.git
 cd phishing-detection
-pip install -r requirements.txt
-
 ```
+2. install dependencies
+```bash
+pip install -r requirements.txt
+```
+3. Run the Jupyter Notebook or the Python script.
+
+##  Results
+Highest Accuracy: 95.6% (Random Forest)
+
+Confusion Matrix and ROC visualizations available
+
+##  Future Scope
+Integration with browser extensions
+
+Real-time phishing detection system
+
+Improved feature extraction from URLs
+
+##  Contributing
+Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
+
+
+
+
 this is a ml that has pre-defined websites list that help to dectect the website is legit or phishing website. basically it is using the pre-listed websites it will compare with the input and give the result according to that input.
 
 To run this ml:
