@@ -70,4 +70,4 @@ To run this ml:
 6.that's it you are running the ml in a website form their you can give the url's that you wants to check.
 
 created by Karthik.B
-
+GPL-3.0 license.
