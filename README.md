@@ -1,5 +1,8 @@
 # Phishing Website Detection using Machine Learning
 
+[![License: GPL-3.0](https://img.shields.io/badge/License-GPL--3.0-blue)](LICENSE)
+![Last commit](https://img.shields.io/github/last-commit/KArT4206/phishing-detection_using-ML)
+
 A small machine-learning project that decides whether a URL is **Phishing** or **Legitimate** by looking only at features extracted from the URL string. A Flask web endpoint wraps the trained model so a user can paste a link and get a verdict.
 
 > This repository documents the project (description, design, screenshots). The source code lives in a private repository.
